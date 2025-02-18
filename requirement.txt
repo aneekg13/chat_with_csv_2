@@ -1,0 +1,8 @@
+langchain_experimental
+langchain_huggingface
+matplotlib
+pandas 
+tabulate
+langchain_groq
+pandasai
+streamlit
